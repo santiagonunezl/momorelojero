@@ -1,4 +1,4 @@
-p´{
+p{
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -10,6 +10,10 @@ title{
 
 body{
     color: darkgreen;
+}
+
+nav{
+    color: blue;
 }
 
 
